@@ -27,7 +27,7 @@ Como Executar
 
 Clone o repositório:
 
-git clone <URL_DO_REPOSITORIO>
+git clone [<URL_DO_REPOSITORIO>](https://github.com/PedroMartins-xd/projeto-banco-java)
 
 
 Abra o projeto em sua IDE Java (IntelliJ, Eclipse ou VS Code com extensão Java).
